@@ -1,5 +1,17 @@
-password="1341232134"
-password2="1234567"
-password24="12345367"
-password7 = "1231231231@#"
-password27 = "1231231231@#f"
+# ariel-repo
+the ariel org main repo
+password="123456"
+password="123456"
+
+# ariel-repo
+the ariel org main repo
+password="123456"
+password="123456"
+# ariel-repo
+the ariel org main repo
+password="123456"
+password="123456"
+# ariel-repo
+the ariel org main repo
+password="123456"
+password="123456"
